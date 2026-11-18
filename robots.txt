@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://webguruji.online/govindcomtoz/sitemap.xml
+Sitemap: https://webguruji.online/govitoz/sitemap.xml
 
 # Allow all major search engine bots
 User-agent: Googlebot

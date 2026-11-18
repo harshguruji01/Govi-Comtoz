@@ -35,6 +35,13 @@
       <image:title>Govind Photo | WebGuruJi</image:title>
     </image:image>
 
+    <!-- Brand Logo -->
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govi-comtoz-logo.jpg</image:loc>
+      <image:caption>Govi Comtoz official brand logo - WebGuruJi</image:caption>
+      <image:title>Govi Comtoz Brand Logo | WebGuruJi</image:title>
+    </image:image>
+
     <!-- Gallery 1-11 Comotozze Images -->
     <image:image>
       <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-1.png</image:loc>
