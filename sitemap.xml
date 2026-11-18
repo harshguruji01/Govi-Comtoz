@@ -5,35 +5,101 @@
   <url>
     <loc>https://webguruji.online/govindcomtoz/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
 
-    <!-- Loving Portrait 1 -->
+    <!-- Primary Featured Image -->
     <image:image>
-      <image:loc>https://webguruji.online/govindcomtoz/images/govind-mausi-loving-portrait.jpg</image:loc>
-      <image:caption>Govind and his maternal aunt Mausi Comotozze loving family portrait together</image:caption>
-      <image:title>Govind aur unki Mausi Comotozze - Loving Portrait | WebGuruJi</image:title>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze.jpg</image:loc>
+      <image:caption>Photograph of Comotozze, Govind's maternal aunt (mausi) - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Photo | WebGuruJi</image:title>
     </image:image>
 
-    <!-- Loving Portrait 2 -->
+    <!-- Loving Portraits -->
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-mausi-loving-portrait.jpg</image:loc>
+      <image:caption>Govind aur unki mausi Comotozze - Loving family portrait | Govind ki mausi photo</image:caption>
+      <image:title>Govind aur unki Mausi Comotozze Loving Portrait | WebGuruJi</image:title>
+    </image:image>
+
     <image:image>
       <image:loc>https://webguruji.online/govindcomtoz/images/govind-mausi-together.jpg</image:loc>
-      <image:caption>Govind aur unki Mausi Comotozze saath mein - Family Celebration Photo</image:caption>
+      <image:caption>Govind and Mausi Comotozze together - Celebration family portrait</image:caption>
       <image:title>Govind and Mausi Comotozze Celebration Photo | WebGuruJi</image:title>
     </image:image>
 
     <!-- Govind Photo -->
     <image:image>
       <image:loc>https://webguruji.online/govindcomtoz/images/govind.jpg</image:loc>
-      <image:caption>Govind - jiski mausi ka naam Comotozze hai</image:caption>
+      <image:caption>Govind - Jiski mausi ka naam Comotozze hai</image:caption>
       <image:title>Govind Photo | WebGuruJi</image:title>
     </image:image>
 
-    <!-- Comotozze / Video Frame Photo -->
+    <!-- Gallery 1-11 Comotozze Images -->
     <image:image>
-      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze.jpg</image:loc>
-      <image:caption>Photograph of Comotozze, identified as Govind's maternal aunt (mausi)</image:caption>
-      <image:title>Comotozze - Govind Ki Mausi | WebGuruJi</image:title>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-1.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze portrait photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 1 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-2.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze beautiful photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 2 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-3.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze outdoor photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 3 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-4.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze photo gallery - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 4 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-5.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze special photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 5 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-6.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze latest picture - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 6 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-7.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze photoshoot image - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 7 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-8.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze full photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 8 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-9.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze high resolution photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 9 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-10.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze pose photo - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 10 | WebGuruJi</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze-gallery-11.png</image:loc>
+      <image:caption>Govind ki mausi Comotozze full wallpaper image - Govind ki mausi images</image:caption>
+      <image:title>Govind Ki Mausi Comotozze Image 11 | WebGuruJi</image:title>
     </image:image>
 
   </url>
