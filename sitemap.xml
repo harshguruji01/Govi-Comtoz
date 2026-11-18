@@ -5,13 +5,37 @@
   <url>
     <loc>https://webguruji.online/govindcomtoz/</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+
+    <!-- Loving Portrait 1 -->
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-mausi-loving-portrait.jpg</image:loc>
+      <image:caption>Govind and his maternal aunt Mausi Comotozze loving family portrait together</image:caption>
+      <image:title>Govind aur unki Mausi Comotozze - Loving Portrait | WebGuruJi</image:title>
+    </image:image>
+
+    <!-- Loving Portrait 2 -->
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind-mausi-together.jpg</image:loc>
+      <image:caption>Govind aur unki Mausi Comotozze saath mein - Family Celebration Photo</image:caption>
+      <image:title>Govind and Mausi Comotozze Celebration Photo | WebGuruJi</image:title>
+    </image:image>
+
+    <!-- Govind Photo -->
+    <image:image>
+      <image:loc>https://webguruji.online/govindcomtoz/images/govind.jpg</image:loc>
+      <image:caption>Govind - jiski mausi ka naam Comotozze hai</image:caption>
+      <image:title>Govind Photo | WebGuruJi</image:title>
+    </image:image>
+
+    <!-- Comotozze / Video Frame Photo -->
     <image:image>
       <image:loc>https://webguruji.online/govindcomtoz/images/govind-ki-mausi-comotozze.jpg</image:loc>
-      <image:caption>Photograph of Comotozze, identified as Govind's maternal aunt (mausi) — information provided by website owner on WebGuruJi</image:caption>
-      <image:title>Comotozze — Govind Ki Mausi | WebGuruJi</image:title>
+      <image:caption>Photograph of Comotozze, identified as Govind's maternal aunt (mausi)</image:caption>
+      <image:title>Comotozze - Govind Ki Mausi | WebGuruJi</image:title>
     </image:image>
+
   </url>
 
 </urlset>
